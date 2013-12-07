@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2013-12-07 20:53+0000\n"
+"POT-Creation-Date: 2013-12-07 22:47+0000\n"
 "PO-Revision-Date: 2013-10-08 17:56+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt <LL@li.org>\n"
@@ -17,243 +17,423 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#~ msgid "Row Added"
-#~ msgstr ""
-
-#~ msgid "Security"
-#~ msgstr "Segurança"
-
-#~ msgid "List Users"
-#~ msgstr "Lista de Utilizadores"
-
-#~ msgid "Base Permissions"
-#~ msgstr "Lista de Permissões Base"
-
-#~ msgid "Views/Menus"
-#~ msgstr "Vistas/Menus"
-
-#~ msgid "Permission on Views/Menus"
-#~ msgstr "Permissão em Vistas/Menus"
-
-#~ msgid "Search"
-#~ msgstr "Pesquisar"
-
-#~ msgid "Back"
-#~ msgstr "Voltar"
-
-#~ msgid "Save"
-#~ msgstr "Gravar"
-
-#~ msgid "This field is required."
-#~ msgstr "Este campo é obrigatório."
-
-#~ msgid "Not a valid date value"
-#~ msgstr "Data inserida não é válida"
-
-#~ msgid "No records found"
-#~ msgstr "Não existem registos"
-
-#~ msgid "Invalid file extension"
-#~ msgstr ""
-
-#~ msgid "Already exists."
-#~ msgstr ""
-
-#~ msgid "Added Row"
-#~ msgstr "Registo Adicionado"
-
-#~ msgid "Changed Row"
-#~ msgstr "Registo Alterado"
-
-#~ msgid "Deleted Row"
-#~ msgstr "Registo Apagado"
-
-#~ msgid "Associated data exists, please delete them first"
-#~ msgstr "Existem dados associados, por favor apague-os primeiro."
-
-#~ msgid "Integrity error, probably unique constraint"
-#~ msgstr "Erro de integridade, provável campo único"
-
-#~ msgid "General Error"
-#~ msgstr "Erro Geral"
-
-#~ msgid "openid"
-#~ msgstr "Id Aberto (OpenID)"
-
-#~ msgid "remember_me"
-#~ msgstr ""
-
-#~ msgid "User Name"
-#~ msgstr "Utilizador"
-
-#~ msgid "Password"
-#~ msgstr "Palavra Passe"
-
-#~ msgid ""
-#~ "Please use a good password policy, "
-#~ "this application does not check this "
-#~ "for you"
-#~ msgstr ""
-#~ "Por favor utilize uma boa politica "
-#~ "de password, esta aplicação não efectua"
-#~ " a verificação da mesma por si"
-
-#~ msgid "Confirm Password"
-#~ msgstr "Confirme a palavra passe"
-
-#~ msgid "Please rewrite the password to confirm"
-#~ msgstr "Por favor reescreva a password para confirmar"
-
-#~ msgid "Passwords must match"
-#~ msgstr "Palavras passe têm que ser iguais"
-
-#~ msgid "List Base Permissions"
-#~ msgstr "Lista de Permissões Base"
-
-#~ msgid "Show Base Permission"
-#~ msgstr "Detalhe da Permissão Base"
-
-#~ msgid "Add Base Permission"
-#~ msgstr "Adicionar Permissão Base"
-
-#~ msgid "Edit Base Permission"
-#~ msgstr "Editar Permissão Base"
-
-#~ msgid "Name"
-#~ msgstr "Nome"
-
-#~ msgid "List View Menus"
-#~ msgstr "Lista de Vista e Menus"
-
-#~ msgid "Show View Menu"
-#~ msgstr "Detalhe da Vista/Menu"
-
-#~ msgid "Add View Menu"
-#~ msgstr "Adicionar Vista/Menu"
-
-#~ msgid "Edit View Menu"
-#~ msgstr "Editar Vista/Menu"
-
-#~ msgid "List Permissions on Views/Menus"
-#~ msgstr "Lista de Permissões"
-
-#~ msgid "Show Permission on Views/Menus"
-#~ msgstr "Detalhe de Permissão na Vista/Menu"
-
-#~ msgid "Add Permission on Views/Menus"
-#~ msgstr "Adicionar Permissão á Vista/Menu"
-
-#~ msgid "Edit Permission on Views/Menus"
-#~ msgstr "Editar Permissão da Vista/Menu"
-
-#~ msgid "Permission"
-#~ msgstr "Permissão"
-
-#~ msgid "View/Menu"
-#~ msgstr "Vista/Menu"
-
-#~ msgid "Reset Password Form"
-#~ msgstr "Alterar Palavra passe"
-
-#~ msgid "Password Changed"
-#~ msgstr "Palavra passe alterada"
-
-#~ msgid "Show User"
-#~ msgstr "Detalhe do Utilizador"
-
-#~ msgid "Add User"
-#~ msgstr "Adicionar Utilizador"
-
-#~ msgid "Edit User"
-#~ msgstr "Editar Utilizador"
-
-#~ msgid "Full Name"
-#~ msgstr "Nome Completo"
-
-#~ msgid "First Name"
-#~ msgstr "Primeiro Nome"
-
-#~ msgid "Last Name"
-#~ msgstr "Ultimo Nome"
-
-#~ msgid "Is Active?"
-#~ msgstr "Está activo?"
-
-#~ msgid "EMail"
-#~ msgstr "EMail"
-
-#~ msgid "Role"
-#~ msgstr "Função de Segurança"
-
-#~ msgid "Write the user first name or names"
-#~ msgstr "Escreva o primeiro nome do Utilizador"
-
-#~ msgid "Write the user last name"
-#~ msgstr "Escreva o último nome"
-
-#~ msgid "Username valid for authentication on DB or LDAP, unused for OID auth"
-#~ msgstr "Nome de Utilizador válido. Não utilizador para OID."
-
-#~ msgid "Its not a good policy to remove a user, just make it inactive"
-#~ msgstr "Não é uma boa politica remover um utilizador, desactive-o"
-
-#~ msgid "The users email, this will also be used for OID auth"
-#~ msgstr "O Email do Utilizador, irá ser usado para autenticação tipo OID"
-
-#~ msgid ""
-#~ "The user role on the application, "
-#~ "this will associate with a list of"
-#~ " permissions"
-#~ msgstr "A Função de segurança, está associada a uma lista de permissões"
-
-#~ msgid "Please rewrite the users password to confirm"
-#~ msgstr "Por favor reescreva a password para confirmar"
-
-#~ msgid "Your user information"
-#~ msgstr "A sua informação de utilizador"
-
-#~ msgid "Reset Password"
-#~ msgstr "Alterar Palavra passe"
-
-#~ msgid "List Roles"
-#~ msgstr "Lista de Funções de Segurança"
-
-#~ msgid "Show Role"
-#~ msgstr "Detalhe da Função de Segurança"
-
-#~ msgid "Add Role"
-#~ msgstr "Adicionar Função de Segurança"
-
-#~ msgid "Edit Role"
-#~ msgstr "Editar Função de Segurança"
-
-#~ msgid "Permissions"
-#~ msgstr "Permissões"
-
-#~ msgid "Invalid login. Please try again."
-#~ msgstr "Autenticação Inválida. Volte a tentar."
-
-#~ msgid "Sign In"
-#~ msgstr "Entrar (Autenticar)"
-
-#~ msgid "Add a new record"
-#~ msgstr "Adicionar um novo registo"
-
-#~ msgid "Edit record"
-#~ msgstr "Editar registo"
-
-#~ msgid "Show record"
-#~ msgstr "Detalhe do registo"
-
-#~ msgid "Delete record"
-#~ msgstr "Apagar registo"
-
-#~ msgid "You sure you want to delete this item?"
-#~ msgstr "Tem a certeza que quer apagar este registo?"
-
-#~ msgid "Group by fields"
-#~ msgstr ""
-
-#~ msgid "Record Count"
-#~ msgstr "Não existem registos"
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:9
+#: flask_appbuilder/messages.py:9
+msgid "Security"
+msgstr "Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:10
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:126
+#: flask_appbuilder/messages.py:10 flask_appbuilder/security/views.py:126
+msgid "List Users"
+msgstr "Lista de Utilizadores"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:11
+#: flask_appbuilder/messages.py:11
+msgid "Base Permissions"
+msgstr "Lista de Permissões Base"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:12
+#: flask_appbuilder/messages.py:12
+msgid "Views/Menus"
+msgstr "Vistas/Menus"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:13
+#: flask_appbuilder/messages.py:13
+msgid "Permission on Views/Menus"
+msgstr "Permissão em Vistas/Menus"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:14
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:167
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/model/list.html:9
+#: flask_appbuilder/messages.py:14
+#: flask_appbuilder/templates/appbuilder/general/lib.html:167
+#: flask_appbuilder/templates/appbuilder/general/model/list.html:9
+msgid "Search"
+msgstr "Pesquisar"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:15
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:162
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:173
+#: flask_appbuilder/messages.py:15
+#: flask_appbuilder/templates/appbuilder/general/lib.html:162
+#: flask_appbuilder/templates/appbuilder/general/lib.html:173
+msgid "Back"
+msgstr "Voltar"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:16
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:160
+#: flask_appbuilder/messages.py:16
+#: flask_appbuilder/templates/appbuilder/general/lib.html:160
+msgid "Save"
+msgstr "Gravar"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:17
+#: flask_appbuilder/messages.py:17
+msgid "This field is required."
+msgstr "Este campo é obrigatório."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:18
+#: flask_appbuilder/messages.py:18
+msgid "Not a valid date value"
+msgstr "Data inserida não é válida"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:19
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/widgets/list.html:80
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/widgets/list_thumbnail.html:55
+#: flask_appbuilder/messages.py:19
+#: flask_appbuilder/templates/appbuilder/general/widgets/list.html:80
+#: flask_appbuilder/templates/appbuilder/general/widgets/list_thumbnail.html:55
+msgid "No records found"
+msgstr "Não existem registos"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/upload.py:136
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/upload.py:184
+#: flask_appbuilder/upload.py:136 flask_appbuilder/upload.py:184
+msgid "Invalid file extension"
+msgstr "Nome de ficheiro inválido"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/validators.py:33
+#: flask_appbuilder/validators.py:33
+msgid "Already exists."
+msgstr "Já existe"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:20
+#: flask_appbuilder/models/datamodel.py:20
+msgid "Added Row"
+msgstr "Registo Adicionado"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:21
+#: flask_appbuilder/models/datamodel.py:21
+msgid "Changed Row"
+msgstr "Registo Alterado"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:22
+#: flask_appbuilder/models/datamodel.py:22
+msgid "Deleted Row"
+msgstr "Registo Apagado"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:23
+#: flask_appbuilder/models/datamodel.py:23
+msgid "Associated data exists, please delete them first"
+msgstr "Existem dados associados, por favor apague-os primeiro."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:24
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:25
+#: flask_appbuilder/models/datamodel.py:24
+#: flask_appbuilder/models/datamodel.py:25
+msgid "Integrity error, probably unique constraint"
+msgstr "Erro de integridade, provável campo único"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:26
+#: flask_appbuilder/models/datamodel.py:26
+msgid "General Error"
+msgstr "Erro Geral"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:8
+#: flask_appbuilder/security/forms.py:8
+msgid "openid"
+msgstr "Id Aberto (OpenID)"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:9
+#: flask_appbuilder/security/forms.py:9
+msgid "remember_me"
+msgstr ""
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:12
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:134
+#: flask_appbuilder/security/forms.py:12 flask_appbuilder/security/views.py:134
+msgid "User Name"
+msgstr "Utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:13
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:17
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:135
+#: flask_appbuilder/security/forms.py:13 flask_appbuilder/security/forms.py:17
+#: flask_appbuilder/security/views.py:135
+msgid "Password"
+msgstr "Palavra Passe"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:18
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:142
+#: flask_appbuilder/security/forms.py:18 flask_appbuilder/security/views.py:142
+msgid ""
+"Please use a good password policy, this application does not check this "
+"for you"
+msgstr ""
+"Por favor utilize uma boa politica de password, esta aplicação não "
+"efectua a verificação da mesma por si"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:21
+#: flask_appbuilder/security/forms.py:21
+msgid "Confirm Password"
+msgstr "Confirme a palavra passe"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:22
+#: flask_appbuilder/security/forms.py:22
+msgid "Please rewrite the password to confirm"
+msgstr "Por favor reescreva a password para confirmar"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:23
+#: flask_appbuilder/security/forms.py:23
+msgid "Passwords must match"
+msgstr "Palavras passe têm que ser iguais"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:34
+#: flask_appbuilder/security/views.py:34
+msgid "List Base Permissions"
+msgstr "Lista de Permissões Base"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:35
+#: flask_appbuilder/security/views.py:35
+msgid "Show Base Permission"
+msgstr "Detalhe da Permissão Base"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:36
+#: flask_appbuilder/security/views.py:36
+msgid "Add Base Permission"
+msgstr "Adicionar Permissão Base"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:37
+#: flask_appbuilder/security/views.py:37
+msgid "Edit Base Permission"
+msgstr "Editar Permissão Base"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:39
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:55
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:218
+#: flask_appbuilder/security/views.py:39 flask_appbuilder/security/views.py:55
+#: flask_appbuilder/security/views.py:218
+msgid "Name"
+msgstr "Nome"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:50
+#: flask_appbuilder/security/views.py:50
+msgid "List View Menus"
+msgstr "Lista de Vista e Menus"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:51
+#: flask_appbuilder/security/views.py:51
+msgid "Show View Menu"
+msgstr "Detalhe da Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:52
+#: flask_appbuilder/security/views.py:52
+msgid "Add View Menu"
+msgstr "Adicionar Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:53
+#: flask_appbuilder/security/views.py:53
+msgid "Edit View Menu"
+msgstr "Editar Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:67
+#: flask_appbuilder/security/views.py:67
+msgid "List Permissions on Views/Menus"
+msgstr "Lista de Permissões"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:68
+#: flask_appbuilder/security/views.py:68
+msgid "Show Permission on Views/Menus"
+msgstr "Detalhe de Permissão na Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:69
+#: flask_appbuilder/security/views.py:69
+msgid "Add Permission on Views/Menus"
+msgstr "Adicionar Permissão á Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:70
+#: flask_appbuilder/security/views.py:70
+msgid "Edit Permission on Views/Menus"
+msgstr "Editar Permissão da Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:72
+#: flask_appbuilder/security/views.py:72
+msgid "Permission"
+msgstr "Permissão"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:72
+#: flask_appbuilder/security/views.py:72
+msgid "View/Menu"
+msgstr "Vista/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:85
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:107
+#: flask_appbuilder/security/views.py:85 flask_appbuilder/security/views.py:107
+msgid "Reset Password Form"
+msgstr "Alterar Palavra passe"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:89
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:111
+#: flask_appbuilder/security/views.py:89 flask_appbuilder/security/views.py:111
+msgid "Password Changed"
+msgstr "Palavra passe alterada"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:127
+#: flask_appbuilder/security/views.py:127
+msgid "Show User"
+msgstr "Detalhe do Utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:128
+#: flask_appbuilder/security/views.py:128
+msgid "Add User"
+msgstr "Adicionar Utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:129
+#: flask_appbuilder/security/views.py:129
+msgid "Edit User"
+msgstr "Editar Utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:131
+#: flask_appbuilder/security/views.py:131
+msgid "Full Name"
+msgstr "Nome Completo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:132
+#: flask_appbuilder/security/views.py:132
+msgid "First Name"
+msgstr "Primeiro Nome"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:133
+#: flask_appbuilder/security/views.py:133
+msgid "Last Name"
+msgstr "Ultimo Nome"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:136
+#: flask_appbuilder/security/views.py:136
+msgid "Is Active?"
+msgstr "Está activo?"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:137
+#: flask_appbuilder/security/views.py:137
+msgid "EMail"
+msgstr "EMail"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:138
+#: flask_appbuilder/security/views.py:138
+msgid "Role"
+msgstr "Função de Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:139
+#: flask_appbuilder/security/views.py:139
+msgid "Write the user first name or names"
+msgstr "Escreva o primeiro nome do Utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:140
+#: flask_appbuilder/security/views.py:140
+msgid "Write the user last name"
+msgstr "Escreva o último nome"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:141
+#: flask_appbuilder/security/views.py:141
+msgid "Username valid for authentication on DB or LDAP, unused for OID auth"
+msgstr "Nome de Utilizador válido. Não utilizador para OID."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:143
+#: flask_appbuilder/security/views.py:143
+msgid "Its not a good policy to remove a user, just make it inactive"
+msgstr "Não é uma boa politica remover um utilizador, desactive-o"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:144
+#: flask_appbuilder/security/views.py:144
+msgid "The users email, this will also be used for OID auth"
+msgstr "O Email do Utilizador, irá ser usado para autenticação tipo OID"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:145
+#: flask_appbuilder/security/views.py:145
+msgid ""
+"The user role on the application, this will associate with a list of "
+"permissions"
+msgstr "A Função de segurança, está associada a uma lista de permissões"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:146
+#: flask_appbuilder/security/views.py:146
+msgid "Please rewrite the users password to confirm"
+msgstr "Por favor reescreva a password para confirmar"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:155
+#: flask_appbuilder/security/views.py:155
+msgid "Your user information"
+msgstr "A sua informação de utilizador"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:156
+#: flask_appbuilder/security/views.py:156
+msgid "Reset Password"
+msgstr "Alterar Palavra passe"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:213
+#: flask_appbuilder/security/views.py:213
+msgid "List Roles"
+msgstr "Lista de Funções de Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:214
+#: flask_appbuilder/security/views.py:214
+msgid "Show Role"
+msgstr "Detalhe da Função de Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:215
+#: flask_appbuilder/security/views.py:215
+msgid "Add Role"
+msgstr "Adicionar Função de Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:216
+#: flask_appbuilder/security/views.py:216
+msgid "Edit Role"
+msgstr "Editar Função de Segurança"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:218
+#: flask_appbuilder/security/views.py:218
+msgid "Permissions"
+msgstr "Permissões"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:232
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:298
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:302
+#: flask_appbuilder/security/views.py:232
+#: flask_appbuilder/security/views.py:298
+#: flask_appbuilder/security/views.py:302
+msgid "Invalid login. Please try again."
+msgstr "Autenticação Inválida. Volte a tentar."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:234
+#: flask_appbuilder/security/views.py:234
+msgid "Sign In"
+msgstr "Entrar (Autenticar)"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:177
+#: flask_appbuilder/templates/appbuilder/general/lib.html:177
+msgid "Add a new record"
+msgstr "Adicionar um novo registo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:183
+#: flask_appbuilder/templates/appbuilder/general/lib.html:183
+msgid "Edit record"
+msgstr "Editar registo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:189
+#: flask_appbuilder/templates/appbuilder/general/lib.html:189
+msgid "Show record"
+msgstr "Detalhe do registo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:195
+#: flask_appbuilder/templates/appbuilder/general/lib.html:195
+msgid "Delete record"
+msgstr "Apagar registo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:195
+#: flask_appbuilder/templates/appbuilder/general/lib.html:195
+msgid "You sure you want to delete this item?"
+msgstr "Tem a certeza que quer apagar este registo?"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/charts/chart.html:7
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/charts/chart_time.html:7
+#: flask_appbuilder/templates/appbuilder/general/charts/chart.html:7
+#: flask_appbuilder/templates/appbuilder/general/charts/chart_time.html:7
+msgid "Group by fields"
+msgstr "Agrupar por campo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/widgets/list.html:19
+#: flask_appbuilder/templates/appbuilder/general/widgets/list.html:19
+msgid "Record Count"
+msgstr "Número de registos"
 
