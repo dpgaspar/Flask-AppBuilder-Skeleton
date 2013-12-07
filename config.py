@@ -19,7 +19,8 @@ BABEL_DEFAULT_LOCALE = 'en'
 
 LANGUAGES = {
     'en': {'flag':'gb', 'name':'English'},
-    'pt': {'flag':'pt', 'name':'Portugal'}
+    'pt': {'flag':'pt', 'name':'Portugal'},
+    'es': {'flag':'es', 'name':'Spain'}
 }
 
 

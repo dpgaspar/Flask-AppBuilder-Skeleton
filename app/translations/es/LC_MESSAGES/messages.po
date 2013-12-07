@@ -1,57 +1,55 @@
-# Portuguese translations for PROJECT.
+# Spanish translations for PROJECT.
 # Copyright (C) 2013 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2013-12-07 20:53+0000\n"
-"PO-Revision-Date: 2013-10-08 17:56+0000\n"
+"PO-Revision-Date: 2013-12-07 19:49+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: pt <LL@li.org>\n"
+"Language-Team: es <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#~ msgid "Row Added"
+#~ msgid "Security"
 #~ msgstr ""
 
-#~ msgid "Security"
-#~ msgstr "Segurança"
-
 #~ msgid "List Users"
-#~ msgstr "Lista de Utilizadores"
+#~ msgstr ""
 
 #~ msgid "Base Permissions"
-#~ msgstr "Lista de Permissões Base"
+#~ msgstr ""
 
 #~ msgid "Views/Menus"
-#~ msgstr "Vistas/Menus"
+#~ msgstr ""
 
 #~ msgid "Permission on Views/Menus"
-#~ msgstr "Permissão em Vistas/Menus"
+#~ msgstr ""
 
 #~ msgid "Search"
-#~ msgstr "Pesquisar"
+#~ msgstr ""
 
 #~ msgid "Back"
-#~ msgstr "Voltar"
+#~ msgstr ""
 
 #~ msgid "Save"
-#~ msgstr "Gravar"
+#~ msgstr ""
 
 #~ msgid "This field is required."
-#~ msgstr "Este campo é obrigatório."
+#~ msgstr ""
 
 #~ msgid "Not a valid date value"
-#~ msgstr "Data inserida não é válida"
+#~ msgstr ""
 
 #~ msgid "No records found"
-#~ msgstr "Não existem registos"
+#~ msgstr ""
 
 #~ msgid "Invalid file extension"
 #~ msgstr ""
@@ -60,200 +58,197 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Added Row"
-#~ msgstr "Registo Adicionado"
+#~ msgstr ""
 
 #~ msgid "Changed Row"
-#~ msgstr "Registo Alterado"
+#~ msgstr ""
 
 #~ msgid "Deleted Row"
-#~ msgstr "Registo Apagado"
+#~ msgstr ""
 
 #~ msgid "Associated data exists, please delete them first"
-#~ msgstr "Existem dados associados, por favor apague-os primeiro."
+#~ msgstr ""
 
 #~ msgid "Integrity error, probably unique constraint"
-#~ msgstr "Erro de integridade, provável campo único"
+#~ msgstr ""
 
 #~ msgid "General Error"
-#~ msgstr "Erro Geral"
+#~ msgstr ""
 
 #~ msgid "openid"
-#~ msgstr "Id Aberto (OpenID)"
+#~ msgstr ""
 
 #~ msgid "remember_me"
 #~ msgstr ""
 
 #~ msgid "User Name"
-#~ msgstr "Utilizador"
+#~ msgstr ""
 
 #~ msgid "Password"
-#~ msgstr "Palavra Passe"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Please use a good password policy, "
 #~ "this application does not check this "
 #~ "for you"
 #~ msgstr ""
-#~ "Por favor utilize uma boa politica "
-#~ "de password, esta aplicação não efectua"
-#~ " a verificação da mesma por si"
 
 #~ msgid "Confirm Password"
-#~ msgstr "Confirme a palavra passe"
+#~ msgstr ""
 
 #~ msgid "Please rewrite the password to confirm"
-#~ msgstr "Por favor reescreva a password para confirmar"
+#~ msgstr ""
 
 #~ msgid "Passwords must match"
-#~ msgstr "Palavras passe têm que ser iguais"
+#~ msgstr ""
 
 #~ msgid "List Base Permissions"
-#~ msgstr "Lista de Permissões Base"
+#~ msgstr ""
 
 #~ msgid "Show Base Permission"
-#~ msgstr "Detalhe da Permissão Base"
+#~ msgstr ""
 
 #~ msgid "Add Base Permission"
-#~ msgstr "Adicionar Permissão Base"
+#~ msgstr ""
 
 #~ msgid "Edit Base Permission"
-#~ msgstr "Editar Permissão Base"
+#~ msgstr ""
 
 #~ msgid "Name"
-#~ msgstr "Nome"
+#~ msgstr ""
 
 #~ msgid "List View Menus"
-#~ msgstr "Lista de Vista e Menus"
+#~ msgstr ""
 
 #~ msgid "Show View Menu"
-#~ msgstr "Detalhe da Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Add View Menu"
-#~ msgstr "Adicionar Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Edit View Menu"
-#~ msgstr "Editar Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "List Permissions on Views/Menus"
-#~ msgstr "Lista de Permissões"
+#~ msgstr ""
 
 #~ msgid "Show Permission on Views/Menus"
-#~ msgstr "Detalhe de Permissão na Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Add Permission on Views/Menus"
-#~ msgstr "Adicionar Permissão á Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Edit Permission on Views/Menus"
-#~ msgstr "Editar Permissão da Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Permission"
-#~ msgstr "Permissão"
+#~ msgstr ""
 
 #~ msgid "View/Menu"
-#~ msgstr "Vista/Menu"
+#~ msgstr ""
 
 #~ msgid "Reset Password Form"
-#~ msgstr "Alterar Palavra passe"
+#~ msgstr ""
 
 #~ msgid "Password Changed"
-#~ msgstr "Palavra passe alterada"
+#~ msgstr ""
 
 #~ msgid "Show User"
-#~ msgstr "Detalhe do Utilizador"
+#~ msgstr ""
 
 #~ msgid "Add User"
-#~ msgstr "Adicionar Utilizador"
+#~ msgstr ""
 
 #~ msgid "Edit User"
-#~ msgstr "Editar Utilizador"
+#~ msgstr ""
 
 #~ msgid "Full Name"
-#~ msgstr "Nome Completo"
+#~ msgstr ""
 
 #~ msgid "First Name"
-#~ msgstr "Primeiro Nome"
+#~ msgstr ""
 
 #~ msgid "Last Name"
-#~ msgstr "Ultimo Nome"
+#~ msgstr ""
 
 #~ msgid "Is Active?"
-#~ msgstr "Está activo?"
+#~ msgstr ""
 
 #~ msgid "EMail"
-#~ msgstr "EMail"
+#~ msgstr ""
 
 #~ msgid "Role"
-#~ msgstr "Função de Segurança"
+#~ msgstr ""
 
 #~ msgid "Write the user first name or names"
-#~ msgstr "Escreva o primeiro nome do Utilizador"
+#~ msgstr ""
 
 #~ msgid "Write the user last name"
-#~ msgstr "Escreva o último nome"
+#~ msgstr ""
 
 #~ msgid "Username valid for authentication on DB or LDAP, unused for OID auth"
-#~ msgstr "Nome de Utilizador válido. Não utilizador para OID."
+#~ msgstr ""
 
 #~ msgid "Its not a good policy to remove a user, just make it inactive"
-#~ msgstr "Não é uma boa politica remover um utilizador, desactive-o"
+#~ msgstr ""
 
 #~ msgid "The users email, this will also be used for OID auth"
-#~ msgstr "O Email do Utilizador, irá ser usado para autenticação tipo OID"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "The user role on the application, "
 #~ "this will associate with a list of"
 #~ " permissions"
-#~ msgstr "A Função de segurança, está associada a uma lista de permissões"
+#~ msgstr ""
 
 #~ msgid "Please rewrite the users password to confirm"
-#~ msgstr "Por favor reescreva a password para confirmar"
+#~ msgstr ""
 
 #~ msgid "Your user information"
-#~ msgstr "A sua informação de utilizador"
+#~ msgstr ""
 
 #~ msgid "Reset Password"
-#~ msgstr "Alterar Palavra passe"
+#~ msgstr ""
 
 #~ msgid "List Roles"
-#~ msgstr "Lista de Funções de Segurança"
+#~ msgstr ""
 
 #~ msgid "Show Role"
-#~ msgstr "Detalhe da Função de Segurança"
+#~ msgstr ""
 
 #~ msgid "Add Role"
-#~ msgstr "Adicionar Função de Segurança"
+#~ msgstr ""
 
 #~ msgid "Edit Role"
-#~ msgstr "Editar Função de Segurança"
+#~ msgstr ""
 
 #~ msgid "Permissions"
-#~ msgstr "Permissões"
+#~ msgstr ""
 
 #~ msgid "Invalid login. Please try again."
-#~ msgstr "Autenticação Inválida. Volte a tentar."
+#~ msgstr ""
 
 #~ msgid "Sign In"
-#~ msgstr "Entrar (Autenticar)"
+#~ msgstr ""
 
 #~ msgid "Add a new record"
-#~ msgstr "Adicionar um novo registo"
+#~ msgstr ""
 
 #~ msgid "Edit record"
-#~ msgstr "Editar registo"
+#~ msgstr ""
 
 #~ msgid "Show record"
-#~ msgstr "Detalhe do registo"
+#~ msgstr ""
 
 #~ msgid "Delete record"
-#~ msgstr "Apagar registo"
+#~ msgstr ""
 
 #~ msgid "You sure you want to delete this item?"
-#~ msgstr "Tem a certeza que quer apagar este registo?"
+#~ msgstr ""
 
 #~ msgid "Group by fields"
 #~ msgstr ""
 
 #~ msgid "Record Count"
-#~ msgstr "Não existem registos"
+#~ msgstr ""
 
