@@ -6,5 +6,5 @@ from app import app, db
 
 
 
-baseapp = BaseApp(app)
+baseapp = BaseApp(app, db)
 
