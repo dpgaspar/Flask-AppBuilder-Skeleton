@@ -16,6 +16,11 @@ SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'app.db')
 
 BABEL_DEFAULT_LOCALE = 'en'
 
+
+#------------------------------
+# GLOBALS FOR APP Builder 
+#------------------------------
+
 LANGUAGES = {
     'en': {'flag':'gb', 'name':'English'},
     'pt': {'flag':'pt', 'name':'Portugal'},
@@ -23,10 +28,6 @@ LANGUAGES = {
 }
 
 
-
-#------------------------------
-# GLOBALS FOR GENERAL APP's
-#------------------------------
 UPLOAD_FOLDER = basedir + '/app/static/uploads/'
 IMG_UPLOAD_FOLDER = basedir + '/app/static/uploads/'
 IMG_UPLOAD_URL = '/static/uploads/'
@@ -34,6 +35,7 @@ AUTH_TYPE = 1
 AUTH_ROLE_ADMIN = 'Admin'
 AUTH_ROLE_PUBLIC = 'Public'
 APP_NAME = "My App 0.2"
+#APP_ICON = "static/img/logo.jpg"
 APP_THEME = ""                  # default
 #APP_THEME = "cerulean.css"      # COOL
 #APP_THEME = "amelia.css"
