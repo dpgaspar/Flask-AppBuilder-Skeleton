@@ -1,8 +1,6 @@
 import logging
 from flask import Flask
 from flask.ext.appbuilder import SQLA, AppBuilder
-from sqlalchemy.engine import Engine
-from sqlalchemy import event
 
 """
  Logging configuration
@@ -18,7 +16,10 @@ appbuilder = AppBuilder(app, db.session)
 
 
 """
-Only include this for SQLLite constraints
+from sqlalchemy.engine import Engine
+from sqlalchemy import event
+
+#Only include this for SQLLite constraints
 @event.listens_for(Engine, "connect")
 def set_sqlite_pragma(dbapi_connection, connection_record):
     # Will force sqllite contraint foreign keys
