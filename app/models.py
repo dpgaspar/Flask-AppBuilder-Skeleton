@@ -1,5 +1,5 @@
 from flask.ext.appbuilder import Model
-from flask.ext.appbuilder.models.mixins import AuditMixin, BaseMixin, FileColumn, ImageColumn
+from flask.ext.appbuilder.models.mixins import AuditMixin, FileColumn, ImageColumn
 
 """
 
