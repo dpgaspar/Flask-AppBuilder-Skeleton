@@ -86,7 +86,9 @@ IMG_UPLOAD_URL = '/static/uploads/'
 #IMG_SIZE = (300, 200, True)
 
 # Theme configuration
-#APP_THEME = ""                  # default
+# these are located on static/appbuilder/css/themes
+# you can create your own and easily use them placing them on the same dir structure to override
+#APP_THEME = "bootstrap-theme.css"  # default bootstrap
 #APP_THEME = "cerulean.css"
 #APP_THEME = "amelia.css"
 #APP_THEME = "cosmo.css"
