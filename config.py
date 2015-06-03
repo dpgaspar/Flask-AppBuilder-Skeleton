@@ -1,5 +1,5 @@
 import os
-from flask_appbuilder.security.manager import AUTH_OID, AUTH_REMOTE_USER, AUTH_DB, AUTH_LDAP
+from flask_appbuilder.security.manager import AUTH_OID, AUTH_REMOTE_USER, AUTH_DB, AUTH_LDAP, AUTH_OAUTH
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 # Your App secret key
@@ -49,7 +49,6 @@ AUTH_TYPE = AUTH_DB
 
 # Uncomment to setup OpenID providers example for OpenID authentication
 #OPENID_PROVIDERS = [
-#    { 'name': 'Google', 'url': 'https://www.google.com/accounts/o8/id' },
 #    { 'name': 'Yahoo', 'url': 'https://me.yahoo.com' },
 #    { 'name': 'AOL', 'url': 'http://openid.aol.com/<username>' },
 #    { 'name': 'Flickr', 'url': 'http://www.flickr.com/<username>' },
