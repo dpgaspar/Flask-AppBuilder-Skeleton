@@ -10,7 +10,7 @@ from flask_appbuilder.security.manager import (
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 # Your App secret key
-SECRET_KEY = {{secret_key}}
+SECRET_KEY = "{{secret_key}}"
 
 # The SQLAlchemy connection string.
 SQLALCHEMY_DATABASE_URI = "sqlite:///" + os.path.join(basedir, "app.db")
